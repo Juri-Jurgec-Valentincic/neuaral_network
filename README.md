@@ -2,6 +2,7 @@
 A lightweight neural network written in C++ using the [eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) library for linear algebra. It uses fully connected layers, the sigmoid activation function and no convolutions. I achieved an accuracy of 97.89% on the testing dataset. The architecture of the neural network can be defined at runtime and with some minor modifications the code could be adapted for other datasets. I took on this project to learn about the inner workings of neural network.
 # Building the project
 The only dependency is [eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page).
+
 On debian besed system it can be installed with:
 ```
 sudo apt instal libeigen3-dev
