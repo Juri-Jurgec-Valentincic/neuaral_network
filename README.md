@@ -15,7 +15,7 @@ I included the dataset and some pre trained models in the repo.
 # Configuring, training and testing
 The learning rate, samples in each training batch and number of epochs to train for can be found in [network.hpp](network.hpp).
 The network architecture can be defined in [train.cpp](train.cpp).
-To commit the changes recompile the project
+To commit the changes recompile the project.
 To train the network run:
 ```
 ./train [model_output_file]
