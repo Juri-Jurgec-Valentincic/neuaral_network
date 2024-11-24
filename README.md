@@ -30,6 +30,6 @@ To test the trained network run:
 ```
 If no file is provided it defaults to "models/model.bin".
 
-[![Demo](https://github.com/user-attachments/assets/ffc6ff4b-7234-471d-84df-9b4587b0d0b4)]
+[Demo](https://github.com/user-attachments/assets/ffc6ff4b-7234-471d-84df-9b4587b0d0b4)
 # Final thoughts
 I built this project in 2020 before I learned about build systems, version management, design patterns, modern C++ and much more. I realize this code is not the best and many improvements could be made.
