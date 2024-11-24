@@ -16,6 +16,7 @@ I included the dataset and some pre trained models in the repo.
 The learning rate, samples in each training batch and number of epochs to train for can be found in [network.hpp](network.hpp).
 The network architecture can be defined in [train.cpp](train.cpp).
 To commit the changes recompile the project.
+
 To train the network run:
 ```
 ./train [model_output_file]
@@ -28,4 +29,4 @@ To test the trained network run:
 ```
 If no file is provided it defaults to "models/model.bin".
 # Final thoughts
-I built this project in 2020 and since then I have learned many new thing. I realize this code is not the best and many improvements could be made.
+I built this project in 2020 before I learned about build systems, version management, design patterns, modern C++ and much more. I realize this code is not the best and many improvements could be made.
